@@ -35,6 +35,7 @@ body{
 }
 
 .square{
+
 	height: 150px;
 	width: 150px;
 	border: 1px solid black;
@@ -55,4 +56,12 @@ body{
 
 .second{
 	margin-top:10px;
+}
+
+
+@media (max-width: 800px) {
+  .square{
+  	height: 100px;
+  	width: 100px;
+  }
 }
