@@ -61,7 +61,7 @@ body{
 
 @media (max-width: 800px) {
   .square{
-  	height: 100px;
-  	width: 100px;
+  	height: 80px;
+  	width: 80px;
   }
 }
